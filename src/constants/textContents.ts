@@ -10,8 +10,11 @@ export const productPageContent: string[] = [
 ];
 
 // Footer Content
+
+// Originally mistakenly labeled as "Group 144" due to a typo during development.
+// Corrected to "Group 113" (our group) after presentation recording for accuracy.
 export const footerContent: string =
-  "Brought to you by Furnique E-Commerce App. © 2025 Plymouth HCI - Group 144 . All rights reserved.";
+  "© 2025 Furnique Furniture Store | PUSL3122 – Group 113";
 
 // Announcement Content
 export const announcements: string[] = [
