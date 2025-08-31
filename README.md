@@ -65,8 +65,8 @@ This e-commerce website allows users to browse and purchase furniture with excel
 
 ## Contributors
 
-- Sinel Nemsara
-- Bingum de Alwis
-- Sachitha Eshan
-- Thisal Sandeepa
-- Anuradha Dilruwan
+- [Sinel Nemsara](https://github.com/DLSNemsara)
+- [Bingum de Alwis](https://github.com/Bingum-de-Alwis)
+- [Sachitha Eshan](https://github.com/SachithaEshan)
+- [Thisal Sandeepa](https://github.com/Thisalsandeepa)
+- [Anuradha Dilruwan](https://github.com/Dilruwan21)
